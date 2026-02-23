@@ -26,10 +26,10 @@ int main(){
     scanf("%c", &estado1);
 
     printf("Digite o código da primeira carta:\n");
-    scanf("%s", &codigo1);
+    scanf("%s", codigo1);
 
     printf("Digite o nome da cidade da primeira carta:\n");
-    scanf("%s", &nome1);
+    scanf("%s", nome1);
 
     printf("Digite a população da primeira carta:\n");
     scanf("%d", &populacao1);
@@ -51,10 +51,10 @@ int main(){
     scanf(" %c", &estado2);
 
     printf("Digite o código da segunda carta:\n");
-    scanf("%s", &codigo2);
+    scanf("%s", codigo2);
 
     printf("Digite o nome da cidade da segunda carta:\n");
-    scanf("%s", &nome2);
+    scanf("%s", nome2);
 
     printf("Digite a população da seguda carta:\n");
     scanf("%d", &populacao2);
